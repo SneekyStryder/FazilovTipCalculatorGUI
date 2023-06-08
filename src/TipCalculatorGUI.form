@@ -14,7 +14,9 @@
             <preferred-size width="150" height="-1"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <text value="0.0"/>
+        </properties>
       </component>
       <hspacer id="54099">
         <constraints>
@@ -27,7 +29,9 @@
             <preferred-size width="150" height="-1"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <text value="15"/>
+        </properties>
       </component>
       <component id="75239" class="javax.swing.JTextField" binding="NumPeopleTextField">
         <constraints>
@@ -35,7 +39,9 @@
             <preferred-size width="150" height="-1"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <text value="1"/>
+        </properties>
       </component>
       <component id="b105f" class="javax.swing.JTextArea" binding="TipCostTextArea">
         <constraints>
@@ -43,7 +49,9 @@
             <preferred-size width="150" height="50"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <text value="0.0"/>
+        </properties>
       </component>
       <component id="11d61" class="javax.swing.JTextArea" binding="TotalCostTextArea">
         <constraints>
@@ -51,7 +59,9 @@
             <preferred-size width="150" height="50"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <text value="0.0"/>
+        </properties>
       </component>
       <vspacer id="b1699">
         <constraints>
